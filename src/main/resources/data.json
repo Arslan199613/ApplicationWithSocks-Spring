@@ -1,0 +1,33 @@
+{
+  "socksId": 4,
+  "socksMap": {
+    "0": {
+      "color": "BLACK",
+      "size": "M",
+      "quantity": 50,
+      "cottonPartAsAPercentage": 100,
+      "type": "ADD"
+    },
+    "1": {
+      "color": "RED",
+      "size": "S",
+      "quantity": 70,
+      "cottonPartAsAPercentage": 50,
+      "type": "ADD"
+    },
+    "2": {
+      "color": "RED",
+      "size": "M",
+      "quantity": 60,
+      "cottonPartAsAPercentage": 30,
+      "type": "ADD"
+    },
+    "3": {
+      "color": "YELLOW",
+      "size": "M",
+      "quantity": 60,
+      "cottonPartAsAPercentage": 30,
+      "type": "ADD"
+    }
+  }
+}
